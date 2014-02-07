@@ -39,8 +39,10 @@ iOS Knowledge Base
 ###8. Local notification + push notification (parse, Urban airship)
 - https://parse.com/
 - http://urbanairship.com/
+- http://www.appcoda.com/ios-programming-local-notification-tutorial/
 
 ###9. iOS Hierarchy Viewer
 Narzędzie umożliwiające podgląd struktury aplikacji oraz danych CoreData
 https://github.com/MaciejGad/iOS-Hierarchy-Viewer
+
 
